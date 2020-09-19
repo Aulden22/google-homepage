@@ -46,9 +46,15 @@ li a {
 }
 
 #searchBar-text {
-    display: block;
-    margin: 0 auto;
+    width: 100%;
+    background-color: transparent;
+    border: none;
 } 
+
+#magnifyingGlass-icon {
+    height: 20px;
+    margin: 12px;
+}
 
 .right {
     right: 0;
