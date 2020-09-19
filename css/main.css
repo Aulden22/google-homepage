@@ -35,7 +35,7 @@ li a {
     min-width: 400px;
 }
 
-img {
+#googleLogo {
     display: block;
     margin: 0 auto;
     margin-top: 90px;
@@ -45,3 +45,7 @@ img {
     display: block;
     margin: 0 auto;
 } 
+
+.right {
+    right: 0;
+}
