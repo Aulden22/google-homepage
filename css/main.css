@@ -41,7 +41,11 @@ li a {
     margin-top: 90px;
 }
 
-#searchBar {
+#searchBar-form {
+    display: flex;
+}
+
+#searchBar-text {
     display: block;
     margin: 0 auto;
 } 
